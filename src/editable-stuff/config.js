@@ -6,30 +6,30 @@ const navBar = {
 // Main Body SECTION
 const mainBody = {
   gradientColors: "#4484ce, #1ad7c0, #ff9b11, #9b59b6, #ff7f7f, #ecf0f1",
-  firstName: "Hashir",
-  middleName: "",
-  lastName: "Shoaib",
-  message: " Passionate about changing the world with technology. ",
+  firstName: "Muhammad Afif",
+  middleName: "Ul Hasnain",
+  lastName: "Malghani",
+  message: " Driving the universe forward with data driven systems ",
   icons: [
     {
       image: "fa-github",
-      url: "https://github.com/hashirshoaeb",
+      url: "https://github.com/afif-malghani",
     },
     {
       image: "fa-facebook",
-      url: "https://www.facebook.com/hashirshoaeb",
+      url: "https://www.facebook.com/",
     },
     {
       image: "fa-instagram",
-      url: "https://www.instagram.com/hashirshoaeb/",
+      url: "https://www.instagram.com/",
     },
     {
       image: "fa-linkedin",
-      url: "https://www.linkedin.com/in/hashirshoaeb/",
+      url: "https://www.linkedin.com/in/",
     },
     {
       image: "fa-twitter",
-      url: "https://www.twitter.com/hashirshoaeb/",
+      url: "https://www.twitter.com/",
     },
   ],
 };
@@ -54,8 +54,8 @@ const about = {
   imageLink: require("../editable-stuff/hashirshoaeb.png"),
   imageSize: 375,
   message:
-    "My name is Hashir Shoaib. I’m a graduate of 2020 from National University of Sciences and Technology at Islamabad with a degree in Computer Engineering. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering. In my free time I like working on open source projects.",
-  resume: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
+    "Hey there, I am Muhammad Afif Ul Hasnian. I graduated form University of Sciences and Technology at Islamabad in 2021 with a degree in Computer Engineering. I have an unquenchable thirst for learning and I am channeling that force to drive me forward as a data scientist. I also have a nag for problem solving, which, I am hoping, will lead me to something great one day. In my free time I like to learn about new technologies, play chess or snooker."
+  resume: "https://drive.google.com/file/d/128HDz0RTxx38D-Afkun04eGIIlDqWxDF/view?usp=sharing",
 };
 
 // PROJECTS SECTION
@@ -66,7 +66,7 @@ const about = {
 const repos = {
   show: true,
   heading: "Recent Projects",
-  gitHubUsername: "hashirshoaeb", //i.e."johnDoe12Gh"
+  gitHubUsername: "afif-malghani", //i.e."johnDoe12Gh"
   reposLength: 4,
   specificRepos: [],
 };
@@ -104,20 +104,20 @@ const skills = {
     { name: "SQL", value: 75 },
     { name: "Data Structures", value: 85 },
     { name: "C/C++", value: 65 },
-    { name: "JavaScript", value: 90 },
-    { name: "React", value: 65 },
-    { name: "HTML/CSS", value: 55 },
+    { name: "JavaScript", value: 40},
+    { name: "React", value: 30},
+    { name: "HTML/CSS", value: 20},
     { name: "C#", value: 80 },
   ],
   softSkills: [
-    { name: "Goal-Oriented", value: 80 },
+    { name: "Goal-Oriented", value: 90 },
     { name: "Collaboration", value: 90 },
     { name: "Positivity", value: 75 },
-    { name: "Adaptability", value: 85 },
-    { name: "Problem Solving", value: 75 },
+    { name: "Adaptability", value: 70 },
+    { name: "Problem Solving", value: 80 },
     { name: "Empathy", value: 90 },
-    { name: "Organization", value: 70 },
-    { name: "Creativity", value: 90 },
+    { name: "Organization", value: 60 },
+    { name: "Creativity", value: 70 },
   ],
 };
 
